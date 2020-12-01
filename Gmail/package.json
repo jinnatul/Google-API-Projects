@@ -1,0 +1,25 @@
+{
+  "name": "gmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinnatul/Google-API-Projects.git"
+  },
+  "author": "Morol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinnatul/Google-API-Projects/issues"
+  },
+  "homepage": "https://github.com/jinnatul/Google-API-Projects#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "googleapis": "^65.0.0"
+  }
+}

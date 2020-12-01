@@ -22,3 +22,22 @@
       "size": "410606"
     }
   ```
+
+
+### Google Gmail ([Code here](https://github.com/jinnatul/Google-API-Projects/tree/master/Gmail))
+  - Send Email
+  ```js
+    * Request Body
+    { 
+      "from": 'morolswediu@gmail.com', 
+      "to": 'anyone@gmail.com', 
+      "subject": 'Send Email', 
+      "message": 'Email send successfully ✌️'
+    }
+
+    * Response (Custom)
+    { 
+      "status": 200, 
+      "message": 'OK' 
+    }
+  ```
